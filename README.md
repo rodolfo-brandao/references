@@ -1,13 +1,13 @@
 # References
 
+![License](https://img.shields.io/github/license/rodolfo-brandao/references)
 ![Last commit](https://img.shields.io/github/last-commit/rodolfo-brandao/references)
 
-A personal selection of references from the world of technology, and especially computing, many of whom inspire me and have had a great impact on my career as a programmer.
-
-All sections and their respective references are ordered alphabetically; this is the only criterion.
+> This is a curated list of references from the world of technology, and especially computing, many of whom  inspire me and have had a great impact on my career as a programmer.
+>
+> All sections and their respective references are ordered alphabetically; this is the only criterion.
 
 ## Summary
-
 - [Books](#books)
     - [Want to Read](#want-to-read)
 - [People](#people)
@@ -39,7 +39,9 @@ All sections and their respective references are ordered alphabetically; this is
 - [Oleksii Trekhleb](https://github.com/trekhleb) — Software engineer at Uber, some of his repositories on Python, data structures and algorithms have greatly helped me to improve my knowledge in these topics
 
 ## Repositories
-- [eng-practices](https://github.com/google/eng-practices) — Google's Engineering Practices documentation (author: [@google](https://github.com/google))
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) — A complete computer science study plan to become a software engineer (author: [@jwasham](https://github.com/jwasham))
+
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) — Interactive roadmaps, guides and other educational content to help developers grow in their careers (author: [@kamranahmedse](https://github.com/kamranahmedse))
 
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) — 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained (author: [@trekhleb](https://github.com/trekhleb))
 
@@ -82,8 +84,14 @@ All sections and their respective references are ordered alphabetically; this is
 - [george hotz archive](https://www.youtube.com/@geohotarchive) — Here you will find live streams, live coding from [comma](https://www.youtube.com/commaai) and [georgehotz
 ](https://www.twitch.tv/georgehotz)
 
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw) — A free and open online publication of educational material from thousands of MIT courses, covering the entire MIT curriculum, ranging from introductory to the most advanced graduate courses
+
 - [NesHacker](https://www.youtube.com/@NesHacker) — Videos that teach 8-bit hardware and software hacking by way of the original Nintendo Entertainment System
 
 - [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) — ML/AI researcher & former stats professor turned LLM research engineer
 
 - [Tsoding](https://www.youtube.com/@Tsoding) — Videos and clips from Twitch live streams about recreational programming
+
+## LICENSE
+
+[MIT](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
