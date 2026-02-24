@@ -2,13 +2,14 @@
 
 ![Last commit](https://img.shields.io/github/last-commit/rodolfo-brandao/references)
 
-A personal selection of references in the world of computing who inspire me and have had a great impact on my career as a programmer.
+A personal selection of references from the world of technology, and especially computing, many of whom inspire me and have had a great impact on my career as a programmer.
 
-All sections and their respective references are ordered alphabetically, that's the only criterion.
+All sections and their respective references are ordered alphabetically; this is the only criterion.
 
 ## Summary
 
 - [Books](#books)
+    - [Want to Read](#want-to-read)
 - [People](#people)
 - [Repositories](#repositories)
 - [Tech Blogs](#tech-blogs)
@@ -21,14 +22,17 @@ All sections and their respective references are ordered alphabetically, that's 
 
 - [The Big Archive: System Design (2023)](https://assets.bytebytego.com/ByteByteGo-Big-Archive-System-Design-2023.pdf) — FREE book / Author: [ByteByteGo](https://bytebytego.com/)
 
-## People
-- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher whom I had the privilege of having as a professor during my undergraduate studies in Computer Science
+### Want to Read
+- [Introduction to Algorithms, 4th Edition (2022)](https://a.co/d/0eHv1SAq) — Authors: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
-- [bashbunni](https://github.com/bashbunni) — Open-source enthusiast, I discovered her profile through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills
+## People
+- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and excellent communicator, whom I had the privilege of having as a professor during my BS in Computer Science
+
+- [bashbunni](https://github.com/bashbunni) — Open-source enthusiast, I discovered her profile through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills and positions regarding the area
 
 - [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier) — Considered the "Father of Virtual Reality", his activist stance and massive criticism of the current state of the internet, especially regarding social media, inspire deep admiration and reflection in me
 
-- [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) — Co-founded [id Software](https://www.idsoftware.com/en) and developed one of my favorite games of all time: Quake (1996). In addition to having contributed massively to the field of computer graphics and helped consolidate what would become the FPS genre in the gaming universe
+- [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) — Co-founded [id Software](https://www.idsoftware.com/en) and developed one of my favorite games of all time: Quake (1996). In addition to having contributed massively to the field of computer graphics and helped consolidate what would become the First-person Shooter (FPS) genre in the gaming universe
 
 - [Linus Torvalds](https://github.com/torvalds) — The creator of Linux kernel and Git, only
 
