@@ -20,7 +20,7 @@ All sections and their respective references are ordered alphabetically; this is
 ## Books
 - [Sistemas Operacionais: Conceitos e Mecanismos (2017)](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) — pt-BR 🇧🇷 / Author: Prof. Carlos Maziero
 
-- [The Big Archive: System Design (2023)](https://assets.bytebytego.com/ByteByteGo-Big-Archive-System-Design-2023.pdf) — FREE book / Author: [ByteByteGo](https://bytebytego.com/)
+- [The Big Archive: System Design (2023)](https://assets.bytebytego.com/ByteByteGo-Big-Archive-System-Design-2023.pdf) — FREE / Author: [ByteByteGo](https://bytebytego.com/)
 
 ### Want to Read
 - [Introduction to Algorithms, 4th Edition (2022)](https://a.co/d/0eHv1SAq) — Authors: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
@@ -34,7 +34,7 @@ All sections and their respective references are ordered alphabetically; this is
 
 - [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) — Co-founded [id Software](https://www.idsoftware.com/en) and developed one of my favorite games of all time: Quake (1996). In addition to having contributed massively to the field of computer graphics and helped consolidate what would become the First-person Shooter (FPS) genre in the gaming universe
 
-- [Linus Torvalds](https://github.com/torvalds) — The creator of Linux kernel and Git, only
+- [Linus Torvalds](https://github.com/torvalds) — \*Just\* the guy who created the Linux kernel and Git
 
 - [Oleksii Trekhleb](https://github.com/trekhleb) — Software engineer at Uber, some of his repositories on Python, data structures and algorithms have greatly helped me to improve my knowledge in these topics
 
