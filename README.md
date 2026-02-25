@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/rodolfo-brandao/references)
 ![Last commit](https://img.shields.io/github/last-commit/rodolfo-brandao/references)
 
-> This is a curated list of references from the world of technology, and especially computing, many of whom  inspire me and have had a great impact on my career as a programmer.
+> This is a curated list of references related to computing, many of which inspire me and have had a great impact on my career as a programmer.
 >
 > All sections and their respective references are ordered alphabetically; this is the only criterion.
 
@@ -93,5 +93,4 @@
 - [Tsoding](https://www.youtube.com/@Tsoding) — Videos and clips from Twitch live streams about recreational programming
 
 ## LICENSE
-
 [MIT](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
