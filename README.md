@@ -1,7 +1,7 @@
 # References
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-gree.svg)](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
-![Last GitHub commit](https://img.shields.io/github/last-commit/rodolfo-brandao/cinematica?style=flat&logo=git&logoColor=red&color=red)
+![Last GitHub commit](https://img.shields.io/github/last-commit/rodolfo-brandao/references?style=flat&logo=git&logoColor=red&color=red)
 
 > This is a curated list of references related to computing, many of which inspire me and have had a great impact on my career as a programmer.
 >
@@ -91,6 +91,3 @@
 - [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) — ML/AI researcher & former stats professor turned LLM research engineer
 
 - [Tsoding](https://www.youtube.com/@Tsoding) — Videos and clips from Twitch live streams about recreational programming
-
-## LICENSE
-[MIT](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
