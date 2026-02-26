@@ -1,6 +1,6 @@
 # References
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gree.svg)](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
 ![Last GitHub commit](https://img.shields.io/github/last-commit/rodolfo-brandao/references?style=flat&logo=git&logoColor=red&color=red)
 
 > This is a curated list of references related to computing, many of which inspire me and have had a great impact on my career as a programmer.
