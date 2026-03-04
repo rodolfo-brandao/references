@@ -8,7 +8,7 @@ This is a curated list of references related to computing (and tech in general),
 All sections and their respective references are ordered alphabetically; this is the only criterion.
 
 > [!NOTE]
-> _My initial intention was not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references of personal significance. And that remains my sole purpose._
+> _My initial intention was not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references of personal significance. And that remains the sole purpose._
 
 ## Summary
 - [Books](#books)
@@ -33,7 +33,7 @@ All sections and their respective references are ordered alphabetically; this is
 
 - [bashbunni](https://github.com/bashbunni) — Open-source enthusiast, I discovered her profile through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills and positions regarding the area
 
-- [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) — One of the authors of [Knuth–Morris–Pratt (KMP) algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) (the one behind the famous `ctrl`+`f` shortcut), he is also the author of the monumental set of books called [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming). I believe he is one of the most influential figures in computer science given his contributions to the field, which I recognize in myself a certain learning curve to truly understand them, but which are of great importance in the life of a programmer.
+- [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) — One of the authors of [Knuth–Morris–Pratt (KMP) algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) (the one behind the famous `ctrl`+`f` shortcut), he is also the author of the monumental set of books called [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming). I believe he is one of the most influential figures in computer science given his contributions to the field, which I recognize in myself a certain learning curve to truly understand them, but which are of great importance in the life of a programmer
 
 - [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier) — Considered the "father of virtual reality", his activist stance and massive criticism of the current state of the internet, especially regarding social media, inspire deep admiration and reflection in me
 
