@@ -1,13 +1,16 @@
 # References
 
+![Repository language](https://img.shields.io/badge/Language-en--US-0F52BA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
 
-This is a curated list of references related to computing (and tech in general), many of which inspire me and have had a great impact on my career as a programmer.
+This is a curated list of references related to computing (and tech in general), many of which have inspired me and had a great impact on my career as a programmer.
 
-All sections and their respective references are ordered alphabetically; this is the only criterion.
+All sections and references are ordered alphabetically; this is the only criterion.
+
+This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
 
 > [!NOTE]
-> _My intention is not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references of **personal** significance. And that remains the sole purpose._
+> _My intention is not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references that are **personally** meaningful to me. And that remains the sole purpose._
 
 ## Summary
 - [Books](#books)
@@ -27,20 +30,20 @@ All sections and their respective references are ordered alphabetically; this is
 ### Want to Read
 - [Introduction to Algorithms, 4th Edition (2022)](https://a.co/d/0eHv1SAq) — Authors: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
-## People
-- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and an excellent communicator, whom I had the privilege of having as a professor during my BS in Computer Science and my postgraduate program in Data Science
+## People <img src="assets/hot.gif" width="45" />
+- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and an excellent communicator, whom I had the privilege of studying under as a professor during my BS in Computer Science and my postgraduate program in Data Science
 
-- [bashbunni](https://github.com/bashbunni) — Open-source enthusiast, I discovered her profile through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills and positions regarding the area
+- [bashbunni](https://github.com/bashbunni) — An open-source enthusiast whose profile I discovered through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills and positions regarding the industry (especially about data privacy)
 
-- [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) — One of the authors of [Knuth–Morris–Pratt (KMP) algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) (the one behind the famous `ctrl`+`f` shortcut), he is also the author of the monumental set of books called [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming). I believe he is one of the most influential figures in computer science given his contributions to the field, which I recognize in myself a certain learning curve to truly understand them, but which are of great importance in the life of a programmer
+- [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) — One of the authors of the [Knuth–Morris–Pratt (KMP) algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) (the one behind the famous *Ctrl + F* shortcut), he is also the author of the monumental set of books called [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming). I believe he is one of the most influential figures in contemporary Computer Science given his contributions to the field, which still require a certain learning curve for me to fully understand, but which are of great importance in the life of a programmer
 
-- [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier) — Considered the "father of virtual reality", his activist stance and massive criticism of the current state of the internet, especially regarding social media, inspire deep admiration and reflection in me
+- [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier) — Considered the "father of virtual reality", his activist stance and strong criticism of the current state of the internet, especially regarding social media, inspire deep reflection and admiration for his work
 
-- [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) — Co-founded [id Software](https://www.idsoftware.com/en) and developed one of my favorite games of all time: Quake (1996). In addition to having contributed massively to the field of computer graphics and helped consolidate what would become the First-person Shooter (FPS) genre in the gaming universe
+- [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) — Co-founded [id Software](https://www.idsoftware.com/en) and developed one of my favorite games of all time: Quake (1996). In addition, he contributed massively to the field of computer graphics and helped consolidate what would become the First-Person Shooter (FPS) genre in gaming
 
-- [Linus Torvalds](https://github.com/torvalds) — \*Just\* the guy who created the Linux kernel and Git
+- [Linus Torvalds](https://github.com/torvalds) — \*Just\* the guy who created the Linux kernel and Git. That's all I need to say
 
-- [Oleksii Trekhleb](https://github.com/trekhleb) — Software engineer at Uber, some of his repositories on Python, data structures and algorithms have greatly helped me to improve my knowledge in these topics
+- [Oleksii Trekhleb](https://github.com/trekhleb) — Software engineer at Uber, some of his repositories on Python, data structures, and algorithms have greatly helped me improve my knowledge in these areas
 
 ## Repositories
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) — A complete computer science study plan to become a software engineer (author: [@jwasham](https://github.com/jwasham))
@@ -74,7 +77,7 @@ All sections and their respective references are ordered alphabetically; this is
 
 - [WIRED](https://www.wired.com/)
 
-## YouTube Channels
+## YouTube Channels <img src="assets/hot.gif" width="45" />
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown) — Variety of topics in math, or adjacent fields like physics and CS
 
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) — Founding member of OpenAI and former Director of AI at Tesla, he produces educational videos on AI
@@ -96,4 +99,4 @@ All sections and their respective references are ordered alphabetically; this is
 
 - [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) — ML/AI researcher & former stats professor turned LLM research engineer
 
-- [Tsoding](https://www.youtube.com/@Tsoding) — Videos and clips from Twitch live streams about recreational programming
+- [Tsoding](https://www.youtube.com/@Tsoding) — Videos and clips from [Twitch](https://www.twitch.tv/tsoding) live streams about recreational programming
