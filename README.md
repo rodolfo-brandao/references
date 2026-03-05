@@ -1,14 +1,13 @@
 # References
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://github.com/rodolfo-brandao/references/blob/main/LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/rodolfo-brandao/references?logo=git&logoColor=FF5C00&color=FF5C00)
 
 This is a curated list of references related to computing (and tech in general), many of which inspire me and have had a great impact on my career as a programmer.
 
 All sections and their respective references are ordered alphabetically; this is the only criterion.
 
 > [!NOTE]
-> _My initial intention was not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references of personal significance. And that remains the sole purpose._
+> _My intention is not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references of **personal** significance. And that remains the sole purpose._
 
 ## Summary
 - [Books](#books)
