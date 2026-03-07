@@ -11,6 +11,8 @@ This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
 
 > [!NOTE]
 > _My intention is not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references that are **personally** meaningful to me. And that remains the sole purpose._
+>
+> Disclaimer: _Some book links point to Amazon for convenience only. I want to clarify that I have no affiliation with Amazon and receive no compensation from these links._
 
 ## Summary
 - [Books](#books)
@@ -30,8 +32,10 @@ This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
 ### Want to Read
 - [Introduction to Algorithms, 4th Edition (2022)](https://a.co/d/0eHv1SAq) — Authors: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
+- [Storytelling with Data, 1st Edition (2015)](https://a.co/d/00x76cVY) — Author: Cole Nussbaumer Knaflic
+
 ## People <img src="assets/hot.gif" width="45" />
-- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and an excellent communicator, whom I had the privilege of studying under as a professor during my BS in Computer Science and my postgraduate program in Data Science
+- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and an excellent communicator, whom I had the privilege of studying under as a professor during my BS in Computer Science and my postgraduate program in Data Science. His areas of expertise are Machine Learning, NLP and data visualization
 
 - [bashbunni](https://github.com/bashbunni) — An open-source enthusiast whose profile I discovered through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills and positions regarding the industry (especially about data privacy)
 
@@ -44,6 +48,8 @@ This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
 - [Linus Torvalds](https://github.com/torvalds) — \*Just\* the guy who created the Linux kernel and Git. That's all I need to say
 
 - [Oleksii Trekhleb](https://github.com/trekhleb) — Software engineer at Uber, some of his repositories on Python, data structures, and algorithms have greatly helped me improve my knowledge in these areas
+
+- Thiago de Oliveira — Another professor I had the privilege of studying under during my BS (where he was my mentor during the production of my final paper) and my postgraduate program. His areas of expertise are databases and big data, in addition of having a vast market expertise
 
 ## Repositories
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) — A complete computer science study plan to become a software engineer (author: [@jwasham](https://github.com/jwasham))
