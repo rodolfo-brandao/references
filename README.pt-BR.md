@@ -28,7 +28,7 @@ Todas as seções e suas respectivas referências presentes aqui seguem a ordem 
 - [Storytelling with Data, 1st Edition (2015)](https://a.co/d/00x76cVY) — Autora: Cole Nussbaumer Knaflic
 
 ## Pessoas <img src="assets/hot.gif" width="45" />
-- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Pesquisador brasileiro e excelente comunicador, com quem tive o privilégio de estudar durante meu bacharelado em Ciência da Computação e minha pós-graduação em Ciência de Dados. Suas áreas de expertise são Machine Learning, Processamento de Linguagem Natural e Visualização de Dados
+- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Pesquisador brasileiro e excelente comunicador, com quem tive o privilégio de estudar durante meu bacharelado em Ciência da Computação e minha pós-graduação em Ciência de Dados. Suas áreas de expertise incluem Machine Learning, Processamento de Linguagem Natural e Visualização de Dados
 
 - [bashbunni](https://github.com/bashbunni) — Entusiasta do open source, descobri seu perfil através de lives na [Twitch](https://www.twitch.tv/bashbunni), onde ela possui uma comunidade incrível. Desde então tenho a seguido e admirado suas habilidades de programação e seus posicionamentos a respeito da área (especialmente sobre privacidade dos dados)
 
@@ -42,4 +42,4 @@ Todas as seções e suas respectivas referências presentes aqui seguem a ordem 
 
 - [Oleksii Trekhleb](https://github.com/trekhleb) — Engenheiro de software na Uber, alguns dos seus repositórios sobre Python, estrutura de dados e algoritmos tem me ajudado imensamente a consolidar meu conhecimento nesses tópicos
 
-- Thiago de Oliveira — Outro professor que eu tive o privilégio de estudar durante meu bacharelado e pós-graduação, tendo sido também o orientador do meu TCC. Suas áreas de expertise são bancos de dados e _big data_, possuindo uma vasta experiência de mercado
+- Thiago de Oliveira — Outro professor com quem tive o privilégio de estudar durante meu bacharelado, quando ele também me orientou na elaboração do meu TCC, e posteriormente durante minha pós-graduação. Suas áreas de especialização incluem Bancos de Dados e _Big Data_, além de possuir ampla experiência de mercado

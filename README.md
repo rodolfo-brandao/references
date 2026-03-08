@@ -35,7 +35,7 @@ This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
 - [Storytelling with Data, 1st Edition (2015)](https://a.co/d/00x76cVY) — Author: Cole Nussbaumer Knaflic
 
 ## People <img src="assets/hot.gif" width="45" />
-- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and an excellent communicator, whom I had the privilege of studying under as a professor during my BS in Computer Science and my postgraduate program in Data Science. His areas of expertise are Machine Learning, NLP and data visualization
+- [Adolfo Guimarães](https://github.com/adolfoguimaraes) — Brazilian researcher and an excellent communicator, whom I had the privilege of studying under as a professor during my BS in Computer Science and my postgraduate program in Data Science. His areas of expertise include Machine Learning, NLP and Data Visualization
 
 - [bashbunni](https://github.com/bashbunni) — An open-source enthusiast whose profile I discovered through live streams on [Twitch](https://www.twitch.tv/bashbunni), where she has an amazing community. Since then, I've been following her and admiring her coding skills and positions regarding the industry (especially about data privacy)
 
@@ -49,7 +49,7 @@ This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
 
 - [Oleksii Trekhleb](https://github.com/trekhleb) — Software engineer at Uber, some of his repositories on Python, data structures, and algorithms have greatly helped me improve my knowledge in these areas
 
-- Thiago de Oliveira — Another professor I had the privilege of studying under during my BS (where he was my mentor during the production of my final paper) and my postgraduate program. His areas of expertise are databases and big data, in addition of having a vast market expertise
+- Thiago de Oliveira — Another professor I had the privilege of studying under during my BS, when he mentored me during the writing of my final paper, and later during my postgraduate program. His areas of expertise include Databases and Dig Data, and he also has extensive industry experience
 
 ## Repositories
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) — A complete computer science study plan to become a software engineer (author: [@jwasham](https://github.com/jwasham))
