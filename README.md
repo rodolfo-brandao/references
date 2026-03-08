@@ -7,7 +7,7 @@ This is a curated list of references related to computing (and tech in general),
 
 All sections and references are ordered alphabetically; this is the only criterion.
 
-This list is also available in [pt-BR 🇧🇷](README.pt-BR.md)
+This list is also available in [pt-BR](README.pt-BR.md) 🇧🇷
 
 > [!NOTE]
 > _My intention is not to create an [awesome list](https://github.com/sindresorhus/awesome), but simply to have a place to share topics and people I respect and admire. After all, this list isn't about one specific topic, but rather about various references that are **personally** meaningful to me. And that remains the sole purpose._
